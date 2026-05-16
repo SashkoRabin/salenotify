@@ -1,0 +1,10 @@
+project_id = "zhkckursnlxryccqfzgd"
+
+[functions.telegram-webhook]
+verify_jwt = false
+
+[functions.daily-digest]
+verify_jwt = false
+
+[functions.ingest-source]
+verify_jwt = false
